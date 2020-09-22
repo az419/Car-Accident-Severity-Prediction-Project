@@ -22,7 +22,7 @@ By looking at this dataset, there are some problems need to be fixed:
 
 - Some of the data is NaN
 
-  ![Screen Shot 2020-09-22 at 4.53.14 PM](/Users/mars/Library/Application Support/typora-user-images/Screen Shot 2020-09-22 at 4.53.14 PM.png)
+  <img src="/Users/mars/Library/Application Support/typora-user-images/Screen Shot 2020-09-22 at 5.42.35 PM.png" alt="Screen Shot 2020-09-22 at 5.42.35 PM" style="zoom:200%;" />
 
 
 
@@ -54,7 +54,7 @@ Another problem can be observed is that the type of those data is object which c
 
 🔧 The third goal is to deal with the NaN value and in this case, I decided to drop the NaN value:
 
-![Image for post](https://miro.medium.com/max/4048/1*6KbOJxTB907HVoUjngssgA.png)
+![](https://miro.medium.com/max/4048/1*6KbOJxTB907HVoUjngssgA.png)
 
 
 
@@ -93,11 +93,11 @@ In this case, I come up with four methodologies which are:
 
 #### **K Nearest Neighbours(KNN):**
 
-<img src="/Users/mars/Library/Application Support/typora-user-images/Screen Shot 2020-09-22 at 4.55.25 PM.png" alt="Screen Shot 2020-09-22 at 4.55.25 PM" style="zoom:200%;" />
+<img src="/Users/mars/Library/Application Support/typora-user-images/Screen Shot 2020-09-22 at 5.43.19 PM.png" alt="Screen Shot 2020-09-22 at 5.43.19 PM" style="zoom:200%;" />
 
-<img src="/Users/mars/Library/Application Support/typora-user-images/Screen Shot 2020-09-22 at 4.55.39 PM.png" alt="Screen Shot 2020-09-22 at 4.55.39 PM" style="zoom:200%;" />
+<img src="/Users/mars/Library/Application Support/typora-user-images/Screen Shot 2020-09-22 at 5.43.33 PM.png" alt="Screen Shot 2020-09-22 at 5.43.33 PM" style="zoom:200%;" />
 
-<img src="/Users/mars/Library/Application Support/typora-user-images/Screen Shot 2020-09-22 at 4.55.49 PM.png" alt="Screen Shot 2020-09-22 at 4.55.49 PM" style="zoom:200%;" />
+<img src="/Users/mars/Library/Application Support/typora-user-images/Screen Shot 2020-09-22 at 5.43.45 PM.png" alt="Screen Shot 2020-09-22 at 5.43.45 PM" style="zoom:200%;" />
 
 #### Decision Tree
 
